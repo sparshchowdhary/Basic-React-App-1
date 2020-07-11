@@ -1,0 +1,28 @@
+.RickAndMorty {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    background-image: url('/rm.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.text-main {
+    color: aliceblue;
+}
+
+.text-sub {
+    color: greenyellow;
+}
+
+.list-group-item {
+    background-color: #63ecec;
+}
+
+#disp {
+    background-color: #fbbc1e;
+}
+
+#search {
+    background-color: #d4c8c8;
+}
